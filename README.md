@@ -168,10 +168,10 @@ B.Tech Computer Science Engineering
 
 Data Analyst | Power BI Developer | Python Enthusiast
 
-📧 Email: Your Email Here
+📧 Email: abhaykumar1522003abk@gmail.com
 
-🔗 LinkedIn: Your LinkedIn Here
+🔗 LinkedIn: https://www.linkedin.com/in/heyabhay03/
 
-🌐 Portfolio: Your Portfolio Here
+🌐 Portfolio: https://portfolio-abhay-kumars-projects-ab320029.vercel.app/
 
 ⭐ If you found this project useful, don't forget to star the repository!
